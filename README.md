@@ -10,7 +10,7 @@ WIP, but in use.
 
 ## Usage
 
-`go install github.com/identitii/sprocbind`
+`go get -a github.com/identitii/sprocbind`
 
 `sprocbind --input my-file-with-sprocs.sql --output sprocs.go --go-package db`
 
